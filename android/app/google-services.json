@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885595064635",
+    "project_id": "koda-score-webapp",
+    "storage_bucket": "koda-score-webapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885595064635:android:716946d81ee2b2e5c08f1e",
+        "android_client_info": {
+          "package_name": "com.example.koda_score_webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885595064635-a1hqggcgl9gu4bn2b656oklmjis89q8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgziWHL6X4k72YGZ1-SucESbuP0jRFxPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885595064635-a1hqggcgl9gu4bn2b656oklmjis89q8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
